@@ -1,0 +1,27 @@
+{
+  "name": "sequelize-upsert-bug",
+  "version": "1.0.0",
+  "description": "Demo of the upsert bug in Sequelize library v6.x",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "Girts Strazdins",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strazdinsg/sequelize-upsert-bug.git"
+  },
+  "bugs": {
+    "url": "https://github.com/strazdinsg/sequelize-upsert-bug/issues"
+  },
+  "homepage": "https://github.com/strazdinsg/sequelize-upsert-bug#readme",
+  "devDependencies": {
+    "vitest": "^2.0.5"
+  },
+  "dependencies": {
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  }
+}
